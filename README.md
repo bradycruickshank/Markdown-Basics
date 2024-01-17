@@ -4,6 +4,11 @@ more stuffmore stuffmore stuffmore stuffmore stuffmore *stuffmore* stuffmore **s
 
 
 ***
+
+|Location|Time|
+|:---|:---:|
+|Texas|6 hours|
+|California|24|
 ### Unordered List:
 * one
 * two
@@ -15,6 +20,8 @@ more stuffmore stuffmore stuffmore stuffmore stuffmore *stuffmore* stuffmore **s
 * five
 
 [apple](https://www.apple.com)
+
+$f(x) = x_3$
 
 ### Ordered List:
 3. cat
