@@ -14,7 +14,7 @@ more stuffmore stuffmore stuffmore stuffmore stuffmore *stuffmore* stuffmore **s
 * four
 * five
 
-[apple](www.apple.com)
+[apple](https://www.apple.com)
 
 ### Ordered List:
 3. cat
